@@ -1,2 +1,2 @@
 # assignment-api-testing-newman
-## Automate Assignment API by postman report generate by newman 
+## Automate Assignment API by Postman Report Generate by Newman 
