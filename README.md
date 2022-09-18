@@ -1,4 +1,4 @@
-## Assignment-API-Testing-Postman
+## API-testing-postman-newman
 ### 01. Automate Assignment API by Postman Report Generate by Newman 
 ### 02. Postman Documentation for API Testing
        https://documenter.getpostman.com/view/21519271/UzBsHPsm
